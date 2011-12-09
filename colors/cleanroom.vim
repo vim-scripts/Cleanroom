@@ -2,7 +2,7 @@
 " Cleanroom Vim Colour Scheme
 "
 " Author:  Vy-Shane Sin Fat <shane@node.mu>
-" Version: 1.0
+" Version: 1.0.1
 "
 
 set background=light
@@ -49,6 +49,7 @@ hi SpellLocal    guisp=#ffaaaa
 hi SpellRare     guisp=#ffaaaa
 hi NonText       guifg=#aaaaaa  guibg=#f8f8f8  gui=none
 hi SpecialKey    guifg=#aaaaaa  guibg=#f8f8f8  gui=none
+hi Conceal       guifg=#111111  guibg=white
 
 " General code
 hi Comment       guifg=#667799  gui=none
